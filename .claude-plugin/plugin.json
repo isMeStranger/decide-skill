@@ -1,0 +1,10 @@
+{
+  "name": "decide",
+  "version": "1.0.0",
+  "description": "Structured decision-making: framing, options, base rates, expected value, weighted scoring with sensitivity, value of information, premortem, bias and fallacy scan, Decision Card with tripwires.",
+  "author": { "name": "isMeStranger", "url": "https://github.com/isMeStranger" },
+  "homepage": "https://github.com/isMeStranger/decide-skill",
+  "repository": "https://github.com/isMeStranger/decide-skill",
+  "license": "MIT",
+  "keywords": ["decision-making", "decision-science", "game-theory", "cognitive-biases", "expected-value"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "decide-skill",
+  "description": "A decision-making skill for Claude: decision science, game theory, biases and the math to pick the best option.",
+  "owner": {
+    "name": "isMeStranger"
+  },
+  "plugins": [
+    {
+      "name": "decide",
+      "source": "./",
+      "description": "Structured decision-making coach: options, facts, math, biases, psychology, and a Decision Card with tripwires.",
+      "category": "productivity"
+    }
+  ]
+}
